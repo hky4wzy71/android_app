@@ -1,1 +1,1 @@
-# android_app
+# okul projesi için yaptıgım android uygulaması
